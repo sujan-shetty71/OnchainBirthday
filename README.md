@@ -1,6 +1,6 @@
 # Implement an ERC20 zk airdrop in 20 minutes with Polygon ID
 
-link to open QR : https://5mxyy3.csb.app/
+link to open QR : [https://5mxyy3.csb.app/](https://5mxyy3.csb.app/)
 
 Tutorial: https://0xpolygonid.github.io/tutorials/verifier/on-chain-verification/overview/
 
